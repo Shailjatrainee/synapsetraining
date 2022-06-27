@@ -1,5 +1,5 @@
 {
-	"name": "first_Sql_script",
+	"name": "SQL script 2",
 	"properties": {
 		"content": {
 			"query": "CREATE TABLE CustomerRecords (\n    CUSTOMERID INT,\n    CUSTOMERNAME NATIONAL CHARACTER VARYING(100),\n    CREDITLIMIT INT);\nGO",
